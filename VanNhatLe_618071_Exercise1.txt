@@ -1,0 +1,1 @@
+Exercise 1: Create/Initialize a new project on local workstation and push/share it on github and invite me (using my github account id, okalu, as a collaborator/committer):
